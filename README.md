@@ -1,2 +1,1 @@
-# Persanal-AI
-Esan Coding
+# Personal-AI
