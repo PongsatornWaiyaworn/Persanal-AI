@@ -2,12 +2,12 @@
 
 | Class | Title                                              | Workshop                                                                 |
 |-------|----------------------------------------------------|--------------------------------------------------------------------------|
-|   1   | xPore: An AI for Bioinformaticians                 | [Gaussian Mixture Modelling](\workshop\GMM.ipynb)                        |
-|   2   | Learning from Biosignal                            | [1D CNN for Brain Signal](\workshop\biosignals)                          |
-|   3   | AI for Detecting Code Plagiarism                   | [code2vec to Detect Code Clone](\workshop\CodeCloneDetection.ipynb)      |
-|   4   | BiTNet: AI for Diagnosing Ultrasound Image         | [NLP Classification](\workshop\Image_classification_EfficientNetB5.ipynb) |
-|   5   | Mental Disorder Detection from Social Media Data   | [Mental Disorder Detection](\workshop\Mental_disorder_detection.ipynb)   |
-|   6   | AI for Arresting Criminals                         | [YOLO V8 Experiment](\workshop\biosignals)                                |
+|   1   | xPore: An AI for Bioinformaticians                 | [Gaussian Mixture Modelling](workshop/GMM.ipynb)                        |
+|   2   | Learning from Biosignal                            | [1D CNN for Brain Signal](workshop/biosignals/)                          |
+|   3   | AI for Detecting Code Plagiarism                   | [code2vec to Detect Code Clone](workshop/CodeCloneDetection.ipynbCodeCloneDetection.ipynb)      |
+|   4   | BiTNet: AI for Diagnosing Ultrasound Image         | [NLP Classification](workshop/Image_classification_EfficientNetB5.ipynb) |
+|   5   | Mental Disorder Detection from Social Media Data   | [Mental Disorder Detection](workshop/Mental_disorder_detection.ipynb)   |
+|   6   | AI for Arresting Criminals                         | [YOLO V8 Experiment](workshop/)                                |
 
 ## Content
 
