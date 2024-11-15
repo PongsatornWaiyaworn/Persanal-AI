@@ -17,6 +17,7 @@
 [BiTNet: AI for Ultrasound Image Classification](#bitnet-ai-for-ultrasound-image-classification)
 - [Mental Disorder Detection from Social Media Data](#mental-disorder-detection-from-social-media-data)
 - [AI for Arresting Criminals](#ai-for-arresting-criminals)
+- [Final Presentation Video](#final-presentation-video)
 
 ---
 
@@ -382,3 +383,10 @@
 
    **เครื่องมือ:**
    - Python, Google Colab และ YOLOv8 Pre-trained Model
+
+
+---
+
+### Final Presentation Video
+
+[![Presentation Video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsA8esCfwJDnWUq1Gk6YcTRrsvN1EosIGXA&s)](https://www.youtube.com/watch?v=hCBYUPqXbcE)
