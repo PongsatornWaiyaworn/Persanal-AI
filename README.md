@@ -7,7 +7,7 @@
 |   3   | AI for Detecting Code Plagiarism                   | [code2vec to Detect Code Clone](workshop/CodeCloneDetection.ipynbCodeCloneDetection.ipynb)      |
 |   4   | BiTNet: AI for Diagnosing Ultrasound Image         | [NLP Classification](workshop/Image_classification_EfficientNetB5.ipynb) |
 |   5   | Mental Disorder Detection from Social Media Data   | [Mental Disorder Detection](workshop/Mental_disorder_detection.ipynb)   |
-|   6   | AI for Arresting Criminals                         | [YOLO V8 Experiment](workshop/)                                |
+|   6   | AI for Arresting Criminals                         | [YOLO V8 Experiment](workshop/Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)                                |
 
 ## Content
 
